@@ -9,5 +9,5 @@
    * [예산 Lv1](programmers/%EC%98%88%EC%82%B0%20Lv1.md)
    * [없는 숫자 더하기 Lv1](programmers/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0%20Lv1.md)
    * [비밀지도 Lv1](programmers/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84%20Lv1.md)
-   * [이진 변환 반복하기 Lv2](programmers/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0%20Lv1.md)
+   * [이진 변환 반복하기 Lv2](programmers/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0%20Lv2.md)
 
