@@ -18,5 +18,6 @@
    * [짝지어 제거하기 Lv2](programmers/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0%20Lv2.md)
    ***
 * etc
+   * [Enum활용](enum/README.md)
 
    
