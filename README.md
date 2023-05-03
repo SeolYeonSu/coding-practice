@@ -18,8 +18,10 @@
    * [짝지어 제거하기 Lv2](programmers/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0%20Lv2.md)
    * [예상 대진표 Lv2](programmers/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C%20Lv2.md)
    ***
-### etc
+### 스터디
    * [Enum활용](enum/README.md)
+   ***
+### etc
    * [서비스 재시작 배치 만들기](etc/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9E%AC%EC%8B%9C%EC%9E%91%20%EB%B0%B0%EC%B9%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
 
