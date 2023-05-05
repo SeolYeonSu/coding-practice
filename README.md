@@ -17,6 +17,7 @@
    * [이진 변환 반복하기 Lv2](programmers/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0%20Lv2.md)
    * [짝지어 제거하기 Lv2](programmers/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0%20Lv2.md)
    * [예상 대진표 Lv2](programmers/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C%20Lv2.md)
+   * [영어 끝말잇기 Lv2](programmers/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%20Lv2.md)
    ***
 ### 스터디
    * [Enum활용](enum/README.md)
