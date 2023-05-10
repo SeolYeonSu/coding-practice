@@ -23,7 +23,7 @@
    * [Enum활용](study/enum.md)
    * [BigInteger](study/bigInteger.md)
    * Transactional
-   * Builder
+   * [Builder](study/builder.md)
    * shortUrl
    ***
 ### etc
