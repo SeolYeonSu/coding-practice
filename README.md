@@ -22,8 +22,8 @@
 ### 스터디
    * [Enum활용](study/enum.md)
    * [BigInteger](study/bigInteger.md)
-   * Transactional
    * [Builder](study/builder.md)
+   * Transactional
    * shortUrl
    ***
 ### etc
