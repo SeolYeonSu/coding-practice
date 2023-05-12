@@ -24,6 +24,7 @@
    * [BigInteger](study/bigInteger.md)
    * [Builder](study/builder.md)
    * Transactional
+   * 직렬화(Serialization)
    * shortUrl
    ***
 ### etc
