@@ -19,6 +19,7 @@
    * [예상 대진표 Lv2](programmers/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C%20Lv2.md)
    * [영어 끝말잇기 Lv2](programmers/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0%20Lv2.md)
    * [점프와 순간 이동 Lv2](programmers/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99%20Lv2.md)
+   * [괄호 회전하기 Lv2](programmers/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0%20Lv2.md)
    ***
 ### 스터디
    * [Enum활용](study/enum.md)
