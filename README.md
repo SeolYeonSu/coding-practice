@@ -25,8 +25,9 @@
    * [Enum활용](study/enum.md)
    * [BigInteger](study/bigInteger.md)
    * [Builder](study/builder.md)
-   * Transactional
+   * [Transactional](study/transactional.md)
    * 직렬화(Serialization)
+   * LRU(Least Recently Used) 알고리즘
    * shortUrl
    ***
 ### etc
