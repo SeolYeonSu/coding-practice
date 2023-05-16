@@ -28,6 +28,7 @@
    * [Transactional](study/transactional.md)
    * 직렬화(Serialization)
    * LRU(Least Recently Used) 알고리즘
+   * optional
    * shortUrl
    ***
 ### etc
