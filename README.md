@@ -22,13 +22,13 @@
    * [괄호 회전하기 Lv2](programmers/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0%20Lv2.md)
    ***
 ### 스터디
-   * [Enum활용](study/enum.md)
+   * [Enum](study/enum.md)
    * [BigInteger](study/bigInteger.md)
    * [Builder](study/builder.md)
    * [Transactional](study/transactional.md)
    * 직렬화(Serialization)
    * LRU(Least Recently Used) 알고리즘
-   * optional
+   * Optional
    * shortUrl
    ***
 ### etc
