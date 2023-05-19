@@ -26,7 +26,7 @@
    * [BigInteger](study/bigInteger.md)
    * [Builder](study/builder.md)
    * [Transactional](study/transactional.md)
-   * [직렬화(Serialization)](study/Serialization.md)
+   * [직렬화(Serialization)](study/serialization.md)
    * LRU(Least Recently Used) 알고리즘
    * Optional
    * shortUrl
