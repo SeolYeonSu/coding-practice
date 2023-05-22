@@ -28,7 +28,7 @@
    * [Builder](study/builder.md)
    * [Transactional](study/transactional.md)
    * [직렬화(Serialization)](study/serialization.md)
-   * LRU(Least Recently Used) 알고리즘
+   * [LRU(Least Recently Used) 알고리즘](study/lru.md)
    * Optional
    * shortUrl
    ***
