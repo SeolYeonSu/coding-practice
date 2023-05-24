@@ -30,7 +30,6 @@
    * [직렬화(Serialization)](study/serialization.md)
    * [LRU(Least Recently Used) 알고리즘](study/lru.md)
    * Optional
-   * shortUrl
    ***
 ### etc
    * [서비스 재시작 배치 만들기](etc/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9E%AC%EC%8B%9C%EC%9E%91%20%EB%B0%B0%EC%B9%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
