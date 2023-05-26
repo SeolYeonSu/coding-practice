@@ -1,4 +1,4 @@
-# Enum 활용
+# Enum
 Enum에 대한 개념을 이해하고 활용한다.
 
 ### 열거체(enumeration type)
