@@ -34,7 +34,7 @@
    * Process
    * ShortUrl
    * 마크다운 목차 이동
-   * annotation
+   * @valid 어노테이션
    * 얕은복사 깊은복사
    ***
 ### etc
