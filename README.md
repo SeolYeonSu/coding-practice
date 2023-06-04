@@ -33,7 +33,7 @@
    * [Optional](study/optional.md)
    * Process
    * ShortUrl
-   * 마크다운 목차 이동
+   * 마크다운
    * @valid 어노테이션
    * 얕은복사 깊은복사
    ***
