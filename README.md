@@ -12,6 +12,7 @@
    * [숫자 문자열과 영단어 Lv1](programmers/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4%20Lv1.md)  
    * [두 개 뽑아서 더하기 Lv1](programmers/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0%20Lv1.md)
    * [소수 만들기 Lv1](programmers/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20Lv1.md)
+   * 실패율
    ***
 ### 코딩문제 Lv2
    * [이진 변환 반복하기 Lv2](programmers/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0%20Lv2.md)
